@@ -14,6 +14,7 @@ Esta aplicação é uma demonstração do potencial do Python na criação de ut
 </p>
 
 <h3 align="center">Estrutura do projeto:</h3>
+
 ```
 calulator/
 ├── README.md
@@ -39,15 +40,12 @@ pip install .
 mycalc -flag <números de sua escolha>
 ```
 
-<p>
 - `-a` ou `--addition`: Realiza a adição de vários números.
 - `-s` ou `--subtraction`: Realiza a subtração de diversos números.
 - `-m` ou `--multiplication`: Realiza a multiplicação de diversos números.
 - `-d` ou `--division`: Realiza a divisão de dois números.
 
-Por enquanto, esses são os comandos disponíveis. Em futuras atualizações, planejo aprimorar o projeto.
-
-</p>
+<p>Por enquanto, esses são os comandos disponíveis. Em futuras atualizações, planejo aprimorar o projeto.</p>
 
 <h3 align="center">Contribuição:</h3>
 
