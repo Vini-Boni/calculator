@@ -2,7 +2,7 @@
 
 <p align="center">
     <img loading="lazy" src="https://img.shields.io/badge/Python-V3.12.0-green" />
-    <img loading="lazy" src="https://img.shields.io/badge/Python-V3.12.0-green" />
+    <img loading="lazy" src="https://img.shields.io/badge/Status-V1.0.0%20Finished-red" />
 </p>
 
 <p>
