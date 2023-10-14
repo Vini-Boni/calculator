@@ -13,6 +13,17 @@ Este é o meu primeiro projeto prático com Python, uma Calculadora CLI, que sur
 Esta aplicação é uma demonstração do potencial do Python na criação de utilitários de linha de comando para simplificar tarefas cotidianas.
 </p>
 
+<h3 align="center">Estrutura do projeto:</h3>
+```
+calulator/
+├── README.md
+├── calculator
+  ├── __init__.py
+  ├── __main__.py
+  └── formula.py
+└── setup.py
+```
+
 <h3 align="center">Como instalar:</h3>
 <p>
 Para instalar é simples, basta fazer o clone deste repositório, acessar a pasta via terminal e digitar o comando:
