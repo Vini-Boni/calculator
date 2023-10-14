@@ -17,11 +17,11 @@ Esta aplicação é uma demonstração do potencial do Python na criação de ut
 
 ```
 calulator/
-├── README.md
 ├── calculator
   ├── __init__.py
   ├── __main__.py
   └── formula.py
+├── README.md
 └── setup.py
 ```
 
